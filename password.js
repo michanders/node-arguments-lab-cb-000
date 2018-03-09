@@ -1,1 +1,2 @@
-// code solution here
+return 140;
+return 10;
