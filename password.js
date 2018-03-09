@@ -1,2 +1,1 @@
-return 140;
-return 10;
+var generatePassword = require('password-generator');
